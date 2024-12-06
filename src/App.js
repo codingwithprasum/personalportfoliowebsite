@@ -63,7 +63,6 @@ function App() {
           <li className='underline hover:text-blue-500 transition duration-300'>Wordpress Dev || elementor</li>
           <li className='underline hover:text-blue-500 transition duration-300'>Figma || UI/UX Design</li>
           <li className='underline hover:text-blue-500 transition duration-300'>Canva || Graphics Designing</li>
-          <li className='underline hover:text-blue-500 transition duration-300'>Canva || Graphics Designing</li>
           <li className='underline hover:text-blue-500 transition duration-300'>Video Editing || Capcut, Filmora</li>
         </ul>
       </p>
